@@ -20,7 +20,7 @@ Example Post:
   "genre": "Book Genre"
 }
 
-#Customers
+# Customers
 
 Get Methods
 Get all customers -> customer/getCustomers
