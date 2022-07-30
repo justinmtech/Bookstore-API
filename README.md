@@ -1,10 +1,10 @@
 # Bookstore-API
 A REST API for storing and fetching books, customers and orders in a database.
 
-#Usage
+# Usage
 All calls should be prefixed with /api/ (ie: api/customer/getCustomers)
 
-#Books
+# Books
 
 Get Methods
 Get all books -> book/getCustomers
@@ -32,7 +32,7 @@ Save specific customer -> customer/saveCustomer (Returns customer object if succ
 Example Post:
 {"id": "email@gmail.com"}
 
-#Orders
+# Orders
 
 Get Methods
 Get all customers -> order/getOrders
