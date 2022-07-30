@@ -1,7 +1,7 @@
-package com.justinmtech.book_store_api.services;
+package com.justinmtech.bookstore_api.services;
 
-import com.justinmtech.book_store_api.entities.Customer;
-import com.justinmtech.book_store_api.repositories.CustomerRepository;
+import com.justinmtech.bookstore_api.entities.Customer;
+import com.justinmtech.bookstore_api.repositories.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

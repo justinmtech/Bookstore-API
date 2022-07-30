@@ -1,6 +1,6 @@
-package com.justinmtech.book_store_api;
+package com.justinmtech.bookstore_api;
 
-import com.justinmtech.book_store_api.services.BookService;
+import com.justinmtech.bookstore_api.services.BookService;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

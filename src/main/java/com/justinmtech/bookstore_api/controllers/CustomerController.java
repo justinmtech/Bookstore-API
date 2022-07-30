@@ -1,7 +1,7 @@
-package com.justinmtech.book_store_api.controllers;
+package com.justinmtech.bookstore_api.controllers;
 
-import com.justinmtech.book_store_api.entities.Customer;
-import com.justinmtech.book_store_api.services.CustomerService;
+import com.justinmtech.bookstore_api.entities.Customer;
+import com.justinmtech.bookstore_api.services.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;

@@ -1,6 +1,6 @@
-package com.justinmtech.book_store_api.repositories;
+package com.justinmtech.bookstore_api.repositories;
 
-import com.justinmtech.book_store_api.entities.Book;
+import com.justinmtech.bookstore_api.entities.Book;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,12 +1,9 @@
-package com.justinmtech.book_store_api.services;
+package com.justinmtech.bookstore_api.services;
 
-import com.justinmtech.book_store_api.entities.Book;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 class BookServiceTest {

@@ -1,4 +1,4 @@
-package com.justinmtech.book_store_api.entities;
+package com.justinmtech.bookstore_api.entities;
 
 import javax.persistence.*;
 import java.util.ArrayList;
