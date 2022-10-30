@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-//TODO Figure out how to map customer IDs to customer field
 @SuppressWarnings("unused")
 @Entity
 @Table(name = "book_store_order")
